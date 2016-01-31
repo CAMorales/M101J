@@ -2,15 +2,12 @@ package com.camorales;
 
 import freemarker.template.Configuration;
 import freemarker.template.Template;
-import freemarker.template.TemplateException;
-
-import java.io.IOException;
 import java.io.StringWriter;
 import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by azazel on 31/01/16.
+ * Created by Claudio Morales on 31/01/16.
  */
 public class HelloWorldFreeMarkerStyle {
     public static void main(String[] args) {
